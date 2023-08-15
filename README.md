@@ -12,7 +12,7 @@ Django REST Framework
 
 # Clone the repository to your local machine:
 git clone `https://github.com/python-hacked/CMS-Application-using-Django-REST-Framework.git`
-cd your-project
+cd post
 
 # Create a virtual environment (optional but recommended):
 `python -m venv venv`
